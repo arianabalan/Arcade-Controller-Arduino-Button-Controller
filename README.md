@@ -1,2 +1,2 @@
 # Arcade Controller Arduino Button Controller
-Program care controleaza butoanele de la un arcade controller prin Arduino
+Program care controleaza un arcade controller cu 4 butoane prin Arduino
